@@ -1,7 +1,0 @@
-a.out
-myshell.c
-redirection.c
-simplesh.c
-test.h
-test.h.gch
-test.txt
